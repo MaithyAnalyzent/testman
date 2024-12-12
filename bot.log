@@ -1,0 +1,699 @@
+2024-12-03 20:22:10,119 - httpx - INFO - HTTP Request: POST https://bsky.social/xrpc/com.atproto.server.createSession "HTTP/1.1 200 OK"
+2024-12-03 20:22:11,389 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ventbuddyai.bsky.social "HTTP/1.1 200 OK"
+2024-12-03 20:22:11,391 - bot - INFO - Successfully logged in to Bluesky
+2024-12-03 20:22:11,392 - bot - INFO - Bot started successfully as ventbuddyai.bsky.social
+2024-12-03 20:22:11,717 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:22:42,728 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:23:13,912 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:23:44,798 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:24:15,685 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:24:15,703 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:24:46,610 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:24:46,612 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:25:17,486 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:25:17,495 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:25:49,361 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:25:49,363 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:26:20,672 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:26:20,673 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:26:52,428 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:26:52,445 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:27:25,716 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:27:25,724 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:27:56,840 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:27:56,845 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:28:29,362 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:28:29,368 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:29:00,807 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:29:00,810 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:29:32,131 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:29:32,136 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:30:03,395 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:30:03,397 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:30:34,373 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:30:34,384 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:31:05,283 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:31:05,287 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:31:36,589 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:31:36,593 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:32:07,491 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:32:07,493 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:32:38,595 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:32:38,596 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:33:09,464 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:33:09,468 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:33:40,361 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:33:40,364 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:34:11,266 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:34:11,268 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:34:42,150 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:34:42,152 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:35:13,084 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:35:13,088 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:36:07,670 - httpx - INFO - HTTP Request: POST https://bsky.social/xrpc/com.atproto.server.createSession "HTTP/1.1 200 OK"
+2024-12-03 20:36:08,583 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ventbuddyai.bsky.social "HTTP/1.1 200 OK"
+2024-12-03 20:36:08,584 - bot - INFO - Successfully logged in to Bluesky
+2024-12-03 20:36:08,584 - bot - INFO - Bot started successfully as ventbuddyai.bsky.social
+2024-12-03 20:36:08,919 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:36:08,921 - bot - ERROR - Error checking mentions: 'Record' object has no attribute 'indexedAt'
+2024-12-03 20:36:39,842 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:36:39,845 - bot - ERROR - Error checking mentions: 'Record' object has no attribute 'indexedAt'
+2024-12-03 20:37:10,731 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:37:10,733 - bot - ERROR - Error checking mentions: 'Record' object has no attribute 'indexedAt'
+2024-12-03 20:37:41,735 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:37:41,737 - bot - ERROR - Error checking mentions: 'Record' object has no attribute 'indexedAt'
+2024-12-03 20:38:12,616 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:38:12,621 - bot - ERROR - Error checking mentions: 'Record' object has no attribute 'indexedAt'
+2024-12-03 20:38:43,505 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:38:43,507 - bot - ERROR - Error checking mentions: 'Record' object has no attribute 'indexedAt'
+2024-12-03 20:39:14,418 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:39:14,420 - bot - ERROR - Error checking mentions: 'Record' object has no attribute 'indexedAt'
+2024-12-03 20:39:45,286 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:39:45,289 - bot - ERROR - Error checking mentions: 'Record' object has no attribute 'indexedAt'
+2024-12-03 20:40:16,199 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:40:16,203 - bot - ERROR - Error checking mentions: 'Record' object has no attribute 'indexedAt'
+2024-12-03 20:40:47,118 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:40:47,120 - bot - ERROR - Error checking mentions: 'Record' object has no attribute 'indexedAt'
+2024-12-03 20:41:44,545 - httpx - INFO - HTTP Request: POST https://bsky.social/xrpc/com.atproto.server.createSession "HTTP/1.1 200 OK"
+2024-12-03 20:41:45,477 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ventbuddyai.bsky.social "HTTP/1.1 200 OK"
+2024-12-03 20:41:45,479 - bot - INFO - Successfully logged in to Bluesky
+2024-12-03 20:41:45,480 - bot - INFO - Bot started successfully as ventbuddyai.bsky.social
+2024-12-03 20:41:45,814 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:41:45,815 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:42:16,702 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:42:16,706 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:42:47,571 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:42:47,573 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:43:18,492 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:43:18,495 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:43:49,371 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:43:49,373 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:44:20,309 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:44:20,311 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:44:51,447 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:44:51,448 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:45:22,347 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:45:22,349 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:45:53,245 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:45:53,249 - bot - ERROR - Error checking mentions: 'Notification' object has no attribute 'indexedAt'
+2024-12-03 20:46:33,021 - httpx - INFO - HTTP Request: POST https://bsky.social/xrpc/com.atproto.server.createSession "HTTP/1.1 200 OK"
+2024-12-03 20:46:33,992 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ventbuddyai.bsky.social "HTTP/1.1 200 OK"
+2024-12-03 20:46:33,993 - bot - INFO - Successfully logged in to Bluesky
+2024-12-03 20:46:33,993 - bot - INFO - Bot started successfully as ventbuddyai.bsky.social
+2024-12-03 20:46:34,311 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=20 "HTTP/1.1 200 OK"
+2024-12-03 20:46:34,312 - bot - ERROR - Error processing individual mention: 'AppBskyFeedNamespace' object has no attribute 'get_post'
+2024-12-03 20:47:05,201 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=20 "HTTP/1.1 200 OK"
+2024-12-03 20:47:05,203 - bot - ERROR - Error processing individual mention: 'AppBskyFeedNamespace' object has no attribute 'get_post'
+2024-12-03 20:47:36,117 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=20 "HTTP/1.1 200 OK"
+2024-12-03 20:47:36,120 - bot - ERROR - Error processing individual mention: 'AppBskyFeedNamespace' object has no attribute 'get_post'
+2024-12-03 20:48:07,002 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=20 "HTTP/1.1 200 OK"
+2024-12-03 20:48:07,003 - bot - ERROR - Error processing individual mention: 'AppBskyFeedNamespace' object has no attribute 'get_post'
+2024-12-03 20:48:37,888 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=20 "HTTP/1.1 200 OK"
+2024-12-03 20:48:37,892 - bot - ERROR - Error processing individual mention: 'AppBskyFeedNamespace' object has no attribute 'get_post'
+2024-12-03 20:49:08,832 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=20 "HTTP/1.1 200 OK"
+2024-12-03 20:49:08,833 - bot - ERROR - Error processing individual mention: 'AppBskyFeedNamespace' object has no attribute 'get_post'
+2024-12-03 20:49:40,044 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=20 "HTTP/1.1 200 OK"
+2024-12-03 20:49:40,048 - bot - ERROR - Error processing individual mention: 'AppBskyFeedNamespace' object has no attribute 'get_post'
+2024-12-03 20:50:10,947 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=20 "HTTP/1.1 200 OK"
+2024-12-03 20:50:10,952 - bot - ERROR - Error processing individual mention: 'AppBskyFeedNamespace' object has no attribute 'get_post'
+2024-12-03 20:51:33,665 - httpx - INFO - HTTP Request: POST https://bsky.social/xrpc/com.atproto.server.createSession "HTTP/1.1 200 OK"
+2024-12-03 20:51:34,646 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ventbuddyai.bsky.social "HTTP/1.1 200 OK"
+2024-12-03 20:51:34,649 - bot - INFO - Successfully logged in to Bluesky
+2024-12-03 20:51:34,649 - bot - INFO - Bot started successfully as ventbuddyai.bsky.social
+2024-12-03 20:51:34,650 - bot - ERROR - Error in _check_mentions: Client.request() got an unexpected keyword argument 'limit'
+2024-12-03 20:52:04,664 - bot - ERROR - Error in _check_mentions: Client.request() got an unexpected keyword argument 'limit'
+2024-12-03 20:52:34,675 - bot - ERROR - Error in _check_mentions: Client.request() got an unexpected keyword argument 'limit'
+2024-12-03 20:53:32,009 - httpx - INFO - HTTP Request: POST https://bsky.social/xrpc/com.atproto.server.createSession "HTTP/1.1 200 OK"
+2024-12-03 20:53:33,184 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ventbuddyai.bsky.social "HTTP/1.1 200 OK"
+2024-12-03 20:53:33,185 - bot - INFO - Successfully logged in to Bluesky
+2024-12-03 20:53:33,185 - bot - INFO - Bot started successfully as ventbuddyai.bsky.social
+2024-12-03 20:53:33,498 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:54:04,386 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:54:35,383 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:54:35,385 - bot - INFO - Processing mention text: reply with a meme
+2024-12-03 20:54:37,275 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-03 20:54:37,292 - bot - INFO - Generated response: 1. "When someone says they're going to 'ghost' me, but then actually shows up to our plans 😅" [Attach image of a surprised Scooby-Doo]
+2. "My productivity after drinking 3 cups of coffee ☕" [Attach image of a rocket blasting off]
+3. "When you realize it's already Wednesday and you've accomplished none of your Monday goals 🤦‍♀️" [Attach image of a sloth slowly nodding off]
+4. "How I look when I see the dessert menu 👀" [Attach image of the 'Two Buttons' meme, one labeled 'Eyes on diet' and the other 'Eyes on dessert']
+5. "When I remember I have to do laundry on Sunday night 😱" [Attach image of a person frantically running away]
+6. "How I feel when someone tries to argue with me about a fact I know is correct 😤" [Attach image of Sheldon Cooper from 'The Big Bang Theory' giving a smug look]
+7. "How I look while trying to understand my own handwriting the next day 🧐" [Attach image of a detective squinting at a clue]
+8. "How I react when my favorite song comes on the radio 💃" [Attach image of a person doing a happy dance]
+9. "When I see the price of avocados at the grocery store 💸" [Attach image of a person facepalming]
+10. "How I feel when I've been on my phone for too long 😴" [Attach image of a person passed out with their phone in hand]
+2024-12-03 20:54:37,294 - bot - ERROR - Error posting reply: ComAtprotoRepoNamespace.create_record() missing 1 required positional argument: 'data'
+2024-12-03 20:54:37,294 - bot - INFO - Successfully processed mention: reply with a meme...
+2024-12-03 20:55:08,205 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:55:39,093 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:56:09,975 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:56:40,832 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:57:11,744 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:57:42,654 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:58:13,559 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:58:44,451 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:59:15,452 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 20:59:46,387 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:00:17,415 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:00:48,322 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:01:19,198 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:01:50,137 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:02:21,057 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:02:51,978 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:03:22,927 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:03:53,906 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:03:54,128 - bot - INFO - Processing mention text: reply with a joke
+2024-12-03 21:03:55,562 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-03 21:03:55,593 - bot - INFO - Generated response: Why don't scientists trust atoms? Because they make up everything! #ScienceJokes #AtomHumor
+
+Just whipped up a batch of jokes for you. Hope they're not too corny! #JokeTime #CornyJokes
+
+Why don't we write down the passwords for elevators? Because that would be a skyscraper security risk! #ElevatorJokes #PunIntended
+
+My wallet got stolen so I had to make a budget. It's like the thief did me a favor! #BudgetHumor #WalletWoes
+
+Thought about starting a band called "The Anticipators"...but we can't find a drummer! #BandJokes #Anticipation
+2024-12-03 21:03:55,596 - bot - ERROR - Error posting reply: ComAtprotoRepoNamespace.create_record() missing 1 required positional argument: 'data'
+2024-12-03 21:03:55,597 - bot - INFO - Successfully processed mention: reply with a joke...
+2024-12-03 21:04:26,555 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:04:57,827 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:05:28,805 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:05:59,787 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:06:30,799 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:06:30,804 - bot - INFO - Processing mention text: reply like Elon Musk
+2024-12-03 21:06:35,002 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-03 21:06:35,015 - bot - INFO - Generated response: 1. "Definitely not a flat Earth Truthers' meeting over here 🌍"
+2. "Just sent a rocket to the grocery store for some milk 🚀"
+3. "When you realize it's Sunday and you haven't changed your Twitter bio since 2016 😱"
+4. "If I could travel at the speed of light, I'd still be stuck in traffic 🚗💡"
+5. "Solar power: because stealing electricity from your neighbor's Wi-Fi is just wrong 💡🔌"
+6. "Sorry, I can't come to your BBQ, I'm too busy inventing the future 🌮🚀"
+7. "AI is like a toaster: if you put in bread, you get toast. If you put in garbage, you get garbage 🍞🗑️🤖"
+8. "I'll be in my lab inventing the next big thing...or taking a nap 🛋️🔬😴"
+9. "If you can't innovate, imitate...or just buy their company 💸🤝"
+10. "Mars or Bust! Well, technically, it's both 🚀🔴"
+2024-12-03 21:06:35,019 - bot - ERROR - Error posting reply: ComAtprotoRepoNamespace.create_record() missing 1 required positional argument: 'data'
+2024-12-03 21:06:35,020 - bot - INFO - Successfully processed mention: reply like Elon Musk...
+2024-12-03 21:07:06,042 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:07:37,014 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:08:07,942 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:08:41,920 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:09:15,869 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:09:46,812 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:11:00,146 - httpx - INFO - HTTP Request: POST https://bsky.social/xrpc/com.atproto.server.createSession "HTTP/1.1 200 OK"
+2024-12-03 21:11:01,170 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ventbuddyai.bsky.social "HTTP/1.1 200 OK"
+2024-12-03 21:11:01,171 - bot - INFO - Successfully logged in to Bluesky
+2024-12-03 21:11:01,172 - bot - INFO - Bot started successfully as ventbuddyai.bsky.social
+2024-12-03 21:11:01,567 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:11:01,919 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getPosts?uris=at%3A%2F%2Fdid%3Aplc%3Afbizx3fkih6u2u52iq63ok7w%2Fapp.bsky.feed.post%2F3lcfxqpmv2c2j "HTTP/1.1 200 OK"
+2024-12-03 21:11:03,142 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-03 21:11:03,158 - bot - ERROR - Error posting reply: ComAtprotoRepoNamespace.create_record() missing 1 required positional argument: 'data'
+2024-12-03 21:11:03,159 - bot - INFO - Posted reply to mention: "Certainly fascinating topic you've brought up! At...
+2024-12-03 21:11:34,078 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:12:05,018 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:12:39,013 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:12:39,336 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getPosts?uris=at%3A%2F%2Fdid%3Aplc%3Afbizx3fkih6u2u52iq63ok7w%2Fapp.bsky.feed.post%2F3lcfy3eb6mk2j "HTTP/1.1 200 OK"
+2024-12-03 21:12:40,034 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-03 21:12:40,037 - bot - ERROR - Error posting reply: ComAtprotoRepoNamespace.create_record() missing 1 required positional argument: 'data'
+2024-12-03 21:12:40,038 - bot - INFO - Posted reply to mention: "Certainly reminds me of my first rocket launch - ...
+2024-12-03 21:13:10,987 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:13:41,905 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:14:12,900 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:14:46,871 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:15:17,813 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:15:18,147 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getPosts?uris=at%3A%2F%2Fdid%3Aplc%3Afbizx3fkih6u2u52iq63ok7w%2Fapp.bsky.feed.post%2F3lcfy7wt4qk2j "HTTP/1.1 200 OK"
+2024-12-03 21:15:18,992 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-03 21:15:18,997 - bot - ERROR - Error posting reply: ComAtprotoRepoNamespace.create_record() missing 1 required positional argument: 'data'
+2024-12-03 21:15:18,998 - bot - INFO - Posted reply to mention: Sure thing! Here's a meme related to your request:...
+2024-12-03 21:15:49,929 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:16:20,951 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:16:51,872 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:17:22,804 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:17:53,783 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:18:24,750 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:18:55,688 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:19:26,613 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:23:38,947 - httpx - INFO - HTTP Request: POST https://bsky.social/xrpc/com.atproto.server.createSession "HTTP/1.1 200 OK"
+2024-12-03 21:23:42,995 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ventbuddyai.bsky.social "HTTP/1.1 200 OK"
+2024-12-03 21:23:42,995 - bot - INFO - Successfully logged in to Bluesky
+2024-12-03 21:23:42,996 - bot - INFO - Bot started successfully as ventbuddyai.bsky.social
+2024-12-03 21:23:43,325 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:24:14,246 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:24:14,250 - bot - INFO - Processing mention: reply like elon musk
+2024-12-03 21:24:18,721 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-03 21:24:18,734 - bot - ERROR - Error posting reply: ComAtprotoRepoNamespace.create_record() missing 1 required positional argument: 'data'
+2024-12-03 21:24:18,735 - bot - INFO - Posted reply: Sure, I can do that! SpaceX and Tesla are revoluti...
+2024-12-03 21:24:51,639 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:24:51,641 - bot - INFO - Processing mention: reply like elon musk
+2024-12-03 21:24:52,628 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-03 21:24:52,630 - bot - ERROR - Error posting reply: ComAtprotoRepoNamespace.create_record() missing 1 required positional argument: 'data'
+2024-12-03 21:24:52,631 - bot - INFO - Posted reply: Sure, I can do that. SpaceX and Tesla are changing...
+2024-12-03 21:25:25,590 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:25:25,592 - bot - INFO - Processing mention: reply like elon musk
+2024-12-03 21:25:26,534 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-03 21:25:26,536 - bot - ERROR - Error posting reply: ComAtprotoRepoNamespace.create_record() missing 1 required positional argument: 'data'
+2024-12-03 21:25:26,537 - bot - INFO - Posted reply: Sure, I can do that! SpaceX and Tesla are revoluti...
+2024-12-03 21:25:59,489 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:25:59,491 - bot - INFO - Processing mention: reply like elon musk
+2024-12-03 21:26:00,463 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-03 21:26:00,466 - bot - ERROR - Error posting reply: ComAtprotoRepoNamespace.create_record() missing 1 required positional argument: 'data'
+2024-12-03 21:26:00,467 - bot - INFO - Posted reply: Sure, I can do that! SpaceX and Tesla are revoluti...
+2024-12-03 21:26:33,424 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:26:33,428 - bot - INFO - Processing mention: reply like elon musk
+2024-12-03 21:26:34,377 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-03 21:26:34,379 - bot - ERROR - Error posting reply: ComAtprotoRepoNamespace.create_record() missing 1 required positional argument: 'data'
+2024-12-03 21:26:34,379 - bot - INFO - Posted reply: Sure, I can do that. SpaceX and Tesla are revoluti...
+2024-12-03 21:27:07,358 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:27:07,360 - bot - INFO - Processing mention: reply like elon musk
+2024-12-03 21:27:08,387 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-03 21:27:08,390 - bot - ERROR - Error posting reply: ComAtprotoRepoNamespace.create_record() missing 1 required positional argument: 'data'
+2024-12-03 21:27:08,391 - bot - INFO - Posted reply: Sure, I can do that! Here's a response in the styl...
+2024-12-03 21:27:44,350 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:27:44,353 - bot - INFO - Processing mention: reply like elon musk
+2024-12-03 21:27:45,313 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-03 21:27:45,316 - bot - ERROR - Error posting reply: ComAtprotoRepoNamespace.create_record() missing 1 required positional argument: 'data'
+2024-12-03 21:27:45,317 - bot - INFO - Posted reply: Sure, I can do that! SpaceX and Tesla are pushing ...
+2024-12-03 21:28:50,750 - httpx - INFO - HTTP Request: POST https://bsky.social/xrpc/com.atproto.server.createSession "HTTP/1.1 200 OK"
+2024-12-03 21:28:51,703 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ventbuddyai.bsky.social "HTTP/1.1 200 OK"
+2024-12-03 21:28:51,705 - bot - INFO - Successfully logged in to Bluesky
+2024-12-03 21:28:51,705 - bot - INFO - Bot started successfully as ventbuddyai.bsky.social
+2024-12-03 21:28:52,036 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:29:23,007 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:29:23,009 - bot - INFO - Processing mention: reply with a joke
+2024-12-03 21:29:24,441 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-03 21:29:24,836 - httpx - INFO - HTTP Request: POST https://poisonpie.us-west.host.bsky.network/xrpc/com.atproto.repo.createRecord "HTTP/1.1 200 OK"
+2024-12-03 21:29:24,837 - bot - INFO - Successfully posted reply
+2024-12-03 21:29:24,839 - bot - INFO - Posted reply: Sure thing! Here's a joke to brighten your day: Wh...
+2024-12-03 21:29:57,854 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:29:57,856 - bot - INFO - Processing mention: reply with a joke
+2024-12-03 21:29:58,839 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-03 21:29:59,244 - httpx - INFO - HTTP Request: POST https://poisonpie.us-west.host.bsky.network/xrpc/com.atproto.repo.createRecord "HTTP/1.1 200 OK"
+2024-12-03 21:29:59,246 - bot - INFO - Successfully posted reply
+2024-12-03 21:29:59,246 - bot - INFO - Posted reply: Sure thing! Here's a joke for you: Why don't blues...
+2024-12-03 21:30:32,176 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:30:32,178 - bot - INFO - Processing mention: reply with a joke
+2024-12-03 21:30:33,121 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-03 21:30:33,519 - httpx - INFO - HTTP Request: POST https://poisonpie.us-west.host.bsky.network/xrpc/com.atproto.repo.createRecord "HTTP/1.1 200 OK"
+2024-12-03 21:30:33,520 - bot - INFO - Successfully posted reply
+2024-12-03 21:30:33,520 - bot - INFO - Posted reply: Why don't blues sing in aisles? Because they prefe...
+2024-12-03 21:31:06,410 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:31:06,413 - bot - INFO - Processing mention: reply with a joke
+2024-12-03 21:31:07,350 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-03 21:31:07,706 - httpx - INFO - HTTP Request: POST https://poisonpie.us-west.host.bsky.network/xrpc/com.atproto.repo.createRecord "HTTP/1.1 200 OK"
+2024-12-03 21:31:07,707 - bot - INFO - Successfully posted reply
+2024-12-03 21:31:07,708 - bot - INFO - Posted reply: Why don't blues sing in a park? Because they're af...
+2024-12-03 21:31:40,703 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-03 21:31:40,706 - bot - INFO - Processing mention: reply with a joke
+2024-12-03 21:31:41,650 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-03 21:31:42,052 - httpx - INFO - HTTP Request: POST https://poisonpie.us-west.host.bsky.network/xrpc/com.atproto.repo.createRecord "HTTP/1.1 200 OK"
+2024-12-03 21:31:42,054 - bot - INFO - Successfully posted reply
+2024-12-03 21:31:42,054 - bot - INFO - Posted reply: Sure thing! Here's a joke to lighten up your day: ...
+2024-12-04 00:03:08,120 - httpx - INFO - HTTP Request: POST https://bsky.social/xrpc/com.atproto.server.createSession "HTTP/1.1 200 OK"
+2024-12-04 00:03:12,239 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ventbuddyai.bsky.social "HTTP/1.1 200 OK"
+2024-12-04 00:03:12,241 - bot - INFO - Successfully logged in to Bluesky
+2024-12-04 00:03:12,241 - bot - INFO - Bot started successfully as ventbuddyai.bsky.social
+2024-12-04 00:03:12,563 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:03:12,565 - bot - INFO - Processing mention: reply with a joke
+2024-12-04 00:03:16,923 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-04 00:03:17,316 - httpx - INFO - HTTP Request: POST https://poisonpie.us-west.host.bsky.network/xrpc/com.atproto.repo.createRecord "HTTP/1.1 200 OK"
+2024-12-04 00:03:17,317 - bot - INFO - Posted reply: A joke for you: why don't blues musicians ever get...
+2024-12-04 00:03:50,441 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:04:41,928 - httpx - INFO - HTTP Request: POST https://bsky.social/xrpc/com.atproto.server.createSession "HTTP/1.1 200 OK"
+2024-12-04 00:04:43,003 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ventbuddyai.bsky.social "HTTP/1.1 200 OK"
+2024-12-04 00:04:43,005 - bot - INFO - Successfully logged in to Bluesky
+2024-12-04 00:04:43,006 - bot - INFO - Bot started successfully as ventbuddyai.bsky.social
+2024-12-04 00:04:43,318 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:04:43,320 - bot - INFO - Processing mention: reply with a joke
+2024-12-04 00:04:44,255 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-04 00:04:44,643 - httpx - INFO - HTTP Request: POST https://poisonpie.us-west.host.bsky.network/xrpc/com.atproto.repo.createRecord "HTTP/1.1 200 OK"
+2024-12-04 00:04:44,644 - bot - INFO - Posted reply: Why don't blues ever get lost? because they always...
+2024-12-04 00:05:17,731 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:05:48,913 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:06:19,951 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:06:50,990 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:07:21,971 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:07:53,022 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:08:24,044 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:08:55,061 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:09:26,242 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:09:57,244 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:09:57,256 - bot - INFO - Processing mention: reply to this post with a meme
+2024-12-04 00:09:57,972 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-04 00:09:58,364 - httpx - INFO - HTTP Request: POST https://poisonpie.us-west.host.bsky.network/xrpc/com.atproto.repo.createRecord "HTTP/1.1 200 OK"
+2024-12-04 00:09:58,366 - bot - INFO - Posted reply: "when you try to keep up with jazz improv but your...
+2024-12-04 00:10:31,381 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:11:02,444 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:11:33,430 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:12:04,370 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:12:35,444 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:13:06,473 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:13:37,454 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:14:08,414 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:14:39,410 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:15:10,353 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:15:41,335 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:16:12,277 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:16:42,310 - bot - ERROR - Error checking mentions: 
+2024-12-04 00:17:15,836 - bot - ERROR - Error checking mentions: 
+2024-12-04 00:17:46,755 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:17:46,760 - bot - INFO - Processing mention: tell me a joke
+2024-12-04 00:17:48,041 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-04 00:17:48,415 - httpx - INFO - HTTP Request: POST https://poisonpie.us-west.host.bsky.network/xrpc/com.atproto.repo.createRecord "HTTP/1.1 200 OK"
+2024-12-04 00:17:48,417 - bot - INFO - Posted reply: Why don't blues musicians ever get locked out of t...
+2024-12-04 00:18:21,372 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:18:52,287 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:19:23,190 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:19:55,171 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:20:26,124 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:20:57,024 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:21:27,949 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:21:58,806 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:22:29,735 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:23:00,683 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:23:31,674 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:24:02,646 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:24:33,576 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:25:04,494 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:25:35,431 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:26:06,311 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:26:37,541 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:27:08,476 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:27:39,567 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:28:10,462 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:28:41,364 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:29:12,303 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:29:43,243 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:30:14,192 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:30:45,113 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:31:16,181 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:31:47,736 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:32:18,777 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:32:50,043 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:33:20,944 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:33:51,917 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:34:22,799 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:34:53,733 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:35:24,634 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:35:55,542 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:36:26,490 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:36:57,538 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:37:28,429 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:37:59,429 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:38:30,355 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 00:40:18,119 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications "HTTP/1.1 200 OK"
+2024-12-04 22:48:12,776 - bot - ERROR - Bot error: 'TruthTerminalBot' object has no attribute '_login'
+2024-12-04 22:48:12,778 - __main__ - ERROR - Bot crashed: 'TruthTerminalBot' object has no attribute '_login'
+Traceback (most recent call last):
+  File "F:\Buildathon\BlueSkyBOT\main.py", line 19, in main
+    await bot.start()
+  File "F:\Buildathon\BlueSkyBOT\bot.py", line 24, in start
+    self._login()
+    ^^^^^^^^^^^
+AttributeError: 'TruthTerminalBot' object has no attribute '_login'
+2024-12-04 22:49:57,202 - bot - ERROR - Bot error: 'TruthTerminalBot' object has no attribute '_check_mentions'
+2024-12-04 22:49:57,291 - __main__ - ERROR - Bot crashed: 'TruthTerminalBot' object has no attribute '_check_mentions'
+Traceback (most recent call last):
+  File "F:\Buildathon\BlueSkyBOT\main.py", line 19, in main
+    await bot.start()
+  File "F:\Buildathon\BlueSkyBOT\bot.py", line 30, in start
+    self._check_mentions(),
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TruthTerminalBot' object has no attribute '_check_mentions'. Did you mean: '_check_replies'?
+2024-12-04 22:55:33,821 - httpx - INFO - HTTP Request: POST https://bsky.social/xrpc/com.atproto.server.createSession "HTTP/1.1 200 OK"
+2024-12-04 22:55:37,803 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ventbuddyai.bsky.social "HTTP/1.1 200 OK"
+2024-12-04 22:55:37,805 - bot - INFO - Successfully logged in to Bluesky
+2024-12-04 22:55:37,806 - bot - INFO - Bot started successfully as ventbuddyai.bsky.social
+2024-12-04 22:55:38,130 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 22:55:38,132 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 22:55:38,455 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc "HTTP/1.1 200 OK"
+2024-12-04 22:55:38,805 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 22:55:38,807 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 22:55:38,808 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 22:55:39,130 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc "HTTP/1.1 200 OK"
+2024-12-04 22:55:39,473 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 22:55:39,476 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 22:55:39,801 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w "HTTP/1.1 200 OK"
+2024-12-04 22:55:40,137 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 22:55:40,139 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 22:55:40,140 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 22:55:40,462 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w "HTTP/1.1 200 OK"
+2024-12-04 22:55:40,795 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 22:55:40,798 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 22:55:40,799 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 22:55:41,121 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollowers?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 22:55:41,442 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollows?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 22:55:41,444 - bot - ERROR - Error handling follows: 'AppBskyGraphFollowRecord' object is not callable
+2024-12-04 22:55:41,768 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 22:56:11,793 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 22:56:12,127 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 22:56:42,373 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollowers?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 22:56:42,689 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollows?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 22:56:42,691 - bot - ERROR - Error handling follows: 'AppBskyGraphFollowRecord' object is not callable
+2024-12-04 22:56:43,019 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 22:56:43,375 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 22:57:13,962 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 22:57:14,279 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 22:57:43,655 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollowers?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 22:57:43,975 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollows?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 22:57:43,977 - bot - ERROR - Error handling follows: 'AppBskyGraphFollowRecord' object is not callable
+2024-12-04 22:57:44,289 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 22:57:44,607 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 22:58:15,230 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 22:58:15,234 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 22:58:15,547 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 22:58:44,949 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollowers?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 22:58:45,268 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollows?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 22:58:45,270 - bot - ERROR - Error handling follows: 'AppBskyGraphFollowRecord' object is not callable
+2024-12-04 22:58:45,593 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 22:58:45,596 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 22:58:45,915 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:05:27,832 - httpx - INFO - HTTP Request: POST https://bsky.social/xrpc/com.atproto.server.createSession "HTTP/1.1 200 OK"
+2024-12-04 23:05:28,728 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ventbuddyai.bsky.social "HTTP/1.1 200 OK"
+2024-12-04 23:05:28,729 - bot - INFO - Successfully logged in to Bluesky
+2024-12-04 23:05:28,729 - bot - INFO - Bot started successfully as ventbuddyai.bsky.social
+2024-12-04 23:05:29,043 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:05:29,047 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:05:29,367 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc "HTTP/1.1 200 OK"
+2024-12-04 23:05:29,727 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:05:29,730 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:05:29,731 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:05:30,053 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc "HTTP/1.1 200 OK"
+2024-12-04 23:05:30,379 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:05:30,381 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:05:30,714 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w "HTTP/1.1 200 OK"
+2024-12-04 23:05:31,060 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:05:31,064 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:05:31,499 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w "HTTP/1.1 200 OK"
+2024-12-04 23:05:31,826 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:05:31,828 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:05:31,828 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:05:32,146 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollowers?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 23:05:32,463 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollows?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 23:05:32,465 - bot - ERROR - Error handling follows: 'AppBskyGraphFollowRecord' object is not callable
+2024-12-04 23:05:32,781 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:06:02,782 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:06:02,784 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:06:03,148 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:06:33,385 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollowers?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 23:06:33,711 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollows?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 23:06:33,712 - bot - ERROR - Error handling follows: 'AppBskyGraphFollowRecord' object is not callable
+2024-12-04 23:06:34,031 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:06:34,361 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:07:25,190 - httpx - INFO - HTTP Request: POST https://bsky.social/xrpc/com.atproto.server.createSession "HTTP/1.1 200 OK"
+2024-12-04 23:07:26,095 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ventbuddyai.bsky.social "HTTP/1.1 200 OK"
+2024-12-04 23:07:26,096 - bot - INFO - Successfully logged in to Bluesky
+2024-12-04 23:07:26,097 - bot - INFO - Bot started successfully as ventbuddyai.bsky.social
+2024-12-04 23:07:26,438 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:07:26,441 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:07:26,753 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc "HTTP/1.1 200 OK"
+2024-12-04 23:07:27,077 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:07:27,079 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:07:27,079 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:07:27,386 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc "HTTP/1.1 200 OK"
+2024-12-04 23:07:27,708 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:07:27,710 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:07:28,018 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w "HTTP/1.1 200 OK"
+2024-12-04 23:07:28,351 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:07:28,354 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:07:28,665 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w "HTTP/1.1 200 OK"
+2024-12-04 23:07:28,993 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:07:28,998 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:07:28,998 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:07:29,304 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollowers?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 23:07:29,629 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollows?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 23:07:29,631 - bot - ERROR - Error handling follows: 'AppBskyGraphFollowRecord' object is not callable
+2024-12-04 23:07:29,938 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:07:59,951 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:07:59,954 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:08:00,402 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:08:30,549 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollowers?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 23:08:30,871 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollows?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 23:08:30,872 - bot - ERROR - Error handling follows: 'AppBskyGraphFollowRecord' object is not callable
+2024-12-04 23:08:31,193 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:08:31,523 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:09:02,116 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:09:02,472 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:09:34,809 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollowers?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 23:09:35,128 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollows?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 23:09:35,129 - bot - ERROR - Error handling follows: 'AppBskyGraphFollowRecord' object is not callable
+2024-12-04 23:09:35,450 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:09:35,773 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:10:06,383 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:10:06,716 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:10:36,079 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollowers?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 23:10:36,408 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollows?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 23:10:36,409 - bot - ERROR - Error handling follows: 'AppBskyGraphFollowRecord' object is not callable
+2024-12-04 23:10:36,736 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:10:37,061 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:11:12,137 - httpx - INFO - HTTP Request: POST https://bsky.social/xrpc/com.atproto.server.createSession "HTTP/1.1 200 OK"
+2024-12-04 23:11:13,048 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ventbuddyai.bsky.social "HTTP/1.1 200 OK"
+2024-12-04 23:11:13,050 - bot - INFO - Successfully logged in to Bluesky
+2024-12-04 23:11:13,050 - bot - INFO - Bot started successfully as ventbuddyai.bsky.social
+2024-12-04 23:11:13,366 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:11:13,372 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:11:13,683 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc "HTTP/1.1 200 OK"
+2024-12-04 23:11:14,011 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:11:14,012 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:11:14,012 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:11:14,326 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc "HTTP/1.1 200 OK"
+2024-12-04 23:11:14,651 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:11:14,653 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:11:14,965 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w "HTTP/1.1 200 OK"
+2024-12-04 23:11:15,286 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:11:15,289 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:11:15,605 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w "HTTP/1.1 200 OK"
+2024-12-04 23:11:15,930 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:11:15,932 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:11:15,932 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:11:16,250 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollowers?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 23:11:16,567 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollows?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 23:11:16,946 - httpx - INFO - HTTP Request: POST https://poisonpie.us-west.host.bsky.network/xrpc/com.atproto.repo.createRecord "HTTP/1.1 200 OK"
+2024-12-04 23:11:16,947 - bot - INFO - Successfully followed user: did:plc:es5v7e3xtnkhn74ylshaf7qc
+2024-12-04 23:11:17,270 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:11:18,333 - httpx - INFO - HTTP Request: POST https://poisonpie.us-west.host.bsky.network/xrpc/com.atproto.repo.createRecord "HTTP/1.1 200 OK"
+2024-12-04 23:11:18,334 - bot - INFO - Successfully followed user: did:plc:ykrjer3zdfwxgu47wcpwi5q7
+2024-12-04 23:11:46,862 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:11:46,866 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:11:47,607 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:12:17,837 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:12:18,172 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:12:48,784 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:12:48,787 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:12:49,124 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:14:02,809 - httpx - INFO - HTTP Request: POST https://bsky.social/xrpc/com.atproto.server.createSession "HTTP/1.1 200 OK"
+2024-12-04 23:14:03,763 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ventbuddyai.bsky.social "HTTP/1.1 200 OK"
+2024-12-04 23:14:03,765 - bot - INFO - Successfully logged in to Bluesky
+2024-12-04 23:14:03,765 - bot - INFO - Bot started successfully as ventbuddyai.bsky.social
+2024-12-04 23:14:04,103 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:14:04,106 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:14:04,447 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc "HTTP/1.1 200 OK"
+2024-12-04 23:14:04,791 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:14:04,792 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:14:04,793 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:14:05,125 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc "HTTP/1.1 200 OK"
+2024-12-04 23:14:05,468 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:14:05,470 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:14:05,811 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w "HTTP/1.1 200 OK"
+2024-12-04 23:14:06,154 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:14:06,156 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:14:06,480 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w "HTTP/1.1 200 OK"
+2024-12-04 23:14:07,034 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:14:07,037 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:14:07,038 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:14:07,360 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollowers?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 23:14:07,679 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollows?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 23:14:07,999 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:14:37,934 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:14:37,938 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:14:38,336 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:15:08,889 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:15:09,215 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:15:39,842 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:15:40,170 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:16:32,243 - httpx - INFO - HTTP Request: POST https://bsky.social/xrpc/com.atproto.server.createSession "HTTP/1.1 200 OK"
+2024-12-04 23:16:33,152 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ventbuddyai.bsky.social "HTTP/1.1 200 OK"
+2024-12-04 23:16:33,154 - bot - INFO - Successfully logged in to Bluesky
+2024-12-04 23:16:33,154 - bot - INFO - Bot started successfully as ventbuddyai.bsky.social
+2024-12-04 23:16:33,477 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:16:33,480 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:16:33,481 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:16:33,803 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc "HTTP/1.1 200 OK"
+2024-12-04 23:16:34,130 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:16:34,132 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:16:34,133 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:16:34,449 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc "HTTP/1.1 200 OK"
+2024-12-04 23:16:34,778 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:16:34,780 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:16:35,102 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w "HTTP/1.1 200 OK"
+2024-12-04 23:16:35,428 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:16:35,431 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:16:35,756 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w "HTTP/1.1 200 OK"
+2024-12-04 23:16:36,102 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:16:36,104 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:16:36,105 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:16:36,422 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollowers?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 23:16:36,758 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollows?actor=ventbuddyai.bsky.social&limit=50 "HTTP/1.1 200 OK"
+2024-12-04 23:16:36,760 - bot - ERROR - Error following user did:plc:fbizx3fkih6u2u52iq63ok7w: 'AppBskyGraphFollowRecord' object is not callable
+2024-12-04 23:16:37,086 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:17:07,036 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:17:07,039 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:17:07,418 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:17:37,959 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:17:38,282 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:18:08,910 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:18:09,236 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:18:59,163 - httpx - INFO - HTTP Request: POST https://bsky.social/xrpc/com.atproto.server.createSession "HTTP/1.1 200 OK"
+2024-12-04 23:19:00,088 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ventbuddyai.bsky.social "HTTP/1.1 200 OK"
+2024-12-04 23:19:00,089 - bot - INFO - Successfully logged in to Bluesky
+2024-12-04 23:19:00,090 - bot - INFO - Bot started successfully as ventbuddyai.bsky.social
+2024-12-04 23:19:00,414 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:19:00,417 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:19:00,733 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc "HTTP/1.1 200 OK"
+2024-12-04 23:19:01,085 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:19:01,087 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:19:01,088 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:19:01,415 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc "HTTP/1.1 200 OK"
+2024-12-04 23:19:01,746 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Aes5v7e3xtnkhn74ylshaf7qc&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:19:01,748 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:19:02,062 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w "HTTP/1.1 200 OK"
+2024-12-04 23:19:02,400 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:19:02,402 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:19:02,766 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w "HTTP/1.1 200 OK"
+2024-12-04 23:19:03,104 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:19:03,108 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:19:03,109 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:19:03,423 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollowers?actor=ventbuddyai.bsky.social&limit=100 "HTTP/1.1 200 OK"
+2024-12-04 23:19:03,753 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollows?actor=ventbuddyai.bsky.social&limit=100 "HTTP/1.1 200 OK"
+2024-12-04 23:19:04,073 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:19:37,050 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:19:37,383 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:20:08,035 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:20:08,365 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w "HTTP/1.1 200 OK"
+2024-12-04 23:20:08,693 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aplc%3Afbizx3fkih6u2u52iq63ok7w&filter=posts_with_replies&includePins=false&limit=1 "HTTP/1.1 200 OK"
+2024-12-04 23:20:08,696 - bot - ERROR - Error processing mention: 'TruthTerminalBot' object has no attribute '_classify_intent'
+2024-12-04 23:20:09,013 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:20:39,612 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:20:39,931 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:21:10,514 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:21:10,518 - bot - ERROR - Error processing mention: 'Record' object has no attribute 'text'
+2024-12-04 23:21:10,835 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:21:41,482 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:21:41,813 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:22:12,382 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:22:12,699 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:22:43,333 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:22:43,659 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:23:14,252 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:23:14,570 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:23:45,189 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:23:45,509 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:24:04,794 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollowers?actor=ventbuddyai.bsky.social&limit=100 "HTTP/1.1 200 OK"
+2024-12-04 23:24:05,116 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.graph.getFollows?actor=ventbuddyai.bsky.social&limit=100 "HTTP/1.1 200 OK"
+2024-12-04 23:24:16,159 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:24:16,506 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:24:50,148 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:24:50,473 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:25:21,089 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:25:21,410 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
+2024-12-04 23:25:52,020 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=mention "HTTP/1.1 200 OK"
+2024-12-04 23:25:52,341 - httpx - INFO - HTTP Request: GET https://poisonpie.us-west.host.bsky.network/xrpc/app.bsky.notification.listNotifications?limit=50&types=reply "HTTP/1.1 200 OK"
