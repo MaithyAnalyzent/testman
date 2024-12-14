@@ -8,9 +8,7 @@ class Settings(BaseSettings):
     BOT_HANDLE: str
     GROQ_API_KEY: str
     BOT_DID: Optional[str] = None
-    emailAuthFactor: Optional[str] = None
-    active: Optional[bool] = None
-
+    
     class Config:
         env_file = ".env"
 
