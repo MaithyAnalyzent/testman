@@ -4,7 +4,7 @@ asyncio==3.4.3
 requests==2.31.0
 
 # ATProto client for Bluesky
-atproto==0.0.31
+atproto==0.0.32
 
 # LLM and AI
 langchain==0.1.0

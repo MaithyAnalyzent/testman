@@ -309,7 +309,7 @@ class MentalHealthPostingModel:
         while True:
             try:
                 await self.post_content()
-                await asyncio.sleep(1800)  # Wait 30 minutes between posts
+                await asyncio.sleep(300)  # Wait 30 minutes between posts
                 
             except Exception as e:
                 logger.error(f"Run loop error: {e}")
